@@ -2,13 +2,19 @@ Pré-requisitos:
 Configure seu .env com as credenciais do banco de dados:
 
 env
-Copy
+
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=nome_do_banco
+
 DB_USERNAME=seu_usuario
+
 DB_PASSWORD=sua_senha
+
 
 Utilizar o comando 
 
